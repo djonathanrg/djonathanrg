@@ -8,12 +8,13 @@ Welcome to my GitHub profile!
 <ul>
     <li>🌍 I'm based in Brazil.</li>
     <li>🎓 I recently initiate my studies on analysis and systems development.</li>
-    <li>💯 I try to improve my knowledge in the development area daily, with projects, books and videos.</li>
+    <li>💯 I try to improve my knowledge in the pentesting area daily, with projects, books and videos.</li>
 </ul>
 
 <h2>Skills</h2>
 <ul>
-    <li>💻 I know something about C, Javascript, HTML and CSS.</li>
+    <li>🖋️ I have some knowledge about pentesting, like MetaSploit, OWASP ZAP, Nmap, Nikto, OWASP, NIST, MITM,<br> Cyber Kill Chain, MITRE ATT&CK and so on.</li>
+    <li>💻 I know something about C, C#, Javascript, Python, HTML and CSS.</li>
 </ul>
 
 <h2>Contibutions</h2>
